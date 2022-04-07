@@ -12,7 +12,4 @@ Barebones site with Android App compatability, built using Heroku, can be seen h
 - Former Website Developer for the [Frontline Community Server](https://fcccanada.org/)
   - Any problems with the website should be taken up with the current website developer, which is not me btw
   - Proud recipient of the **Office Server Crasher** Award
-- 📫 How to reach me
-  - Email : ha.briann@gmail.com
-  
 
