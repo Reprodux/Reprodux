@@ -1,4 +1,4 @@
-# Brian Ha, aka Reprodux, Reproduc, Repro, Repita, Rep, etc.
+# Brian Ha, aka Reprodux, Reproduc, Repro, Repitab, Repita, etc.
 
 ## Current/Previous Projects
 
